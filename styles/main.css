@@ -65,7 +65,7 @@ h2 a{
 }
 
 h2{
-    padding-top: 7em;
+    padding-top: 2em;
     text-align: center;
 
 }
@@ -141,8 +141,8 @@ h2 a:hover{
 }
 
 #werkjes ul li img{
-    width: 194px;
-    height: 223px;
+    width: 30vw;
+    height: 34vw;
 
 }
 
