@@ -39,9 +39,9 @@ body {
 
 .navigation-bar {
     width: 100%;  /* i'm assuming full width */
-    height: 2%; /* change it to desired width */
+    height: 1%;; /* change it to desired width */
     background-color: black; /* change to desired color */
-    margin:0px;
+    margin:0;
 }
 
 
@@ -49,7 +49,7 @@ h1{
     font-size: 5vw;
     color: white;
     margin-left: 3%;
-    margin-top: 1.5em;
+    margin-top: 1em;
     font-family: 'BebasNeueRegular';
 }
 
@@ -73,8 +73,8 @@ h2{
 p{
     font-size:1.7em;
     margin-left: 3%;
-    max-width: 60%;
-    font-size:2.3vw;
+    max-width: 65%;
+    font-size:3vw;
 }
 
 p a{
@@ -118,7 +118,7 @@ a:hover{
 }
 
 h2 a:hover{
-    color: black;
+    color: white;
 }
 
 #werkjes {
@@ -136,13 +136,14 @@ h2 a:hover{
 
 #werkjes ul li{
     justify-content: center;
-    padding:none;
+    padding:1em;
     margin:none;
 }
 
 #werkjes ul li img{
-    width: 30vw;
-    height: 34vw;
+    width: 100%;
+    height: auto;
+    padding:1em;
 
 }
 
